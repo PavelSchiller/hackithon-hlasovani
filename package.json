@@ -1,0 +1,23 @@
+{
+  "name": "hackithon-hlasovani",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon -e js app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kulisci/hackithon-hlasovani.git"
+  },
+  "author": "Ondrej Hliba",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kulisci/hackithon-hlasovani/issues"
+  },
+  "homepage": "https://github.com/kulisci/hackithon-hlasovani#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.19.0"
+  }
+}
